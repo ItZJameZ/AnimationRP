@@ -1,0 +1,12 @@
+name: AnimationRP
+main: io.github.itzjamez.animationrp.AnimationRP
+version: 1.3.0
+api-version: 1.13
+author: ItZ_JameZ_
+commands:
+  extendarms:
+    aliases: [ea]
+    permission: 'anim.extendarms'
+  raisehand:
+    aliases: [rh]
+    permission: 'anim.raisehand'
